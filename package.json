@@ -1,0 +1,15 @@
+{
+	"name": "samuukxs-bot",
+	"author": "Xyvyrianeth",
+	"version": "v0.2.2",
+	"scripts": {
+		"start": "node index.js --harmony"
+	},
+	"engines": {
+		"node": "8.8.1",
+		"npm": "5.5.1"
+	},
+	"dependencies": {
+		"discord.js": "hydrabolt/discord.js"
+	}
+}
